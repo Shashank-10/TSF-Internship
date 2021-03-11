@@ -4,7 +4,7 @@ This repository is dedicated to the completion of all my tasks from The Sparks F
 
 Tools/IDE : Python/Jupyter Notebook
 
-Technical : Task 1 - Prediction using Supervised ML (Level - Beginner)
+### Technical : Task 1 - Prediction using Supervised ML (Level - Beginner)
 
 Predict the percentage of an student based on the no. of study hours.
 
@@ -14,7 +14,7 @@ What are we supposed to do with the given dataset?
 
 We need to predict the score of the student if he/she studies for 9.25 hrs/day.
 
-Technical : Task 2 - Prediction using Unsupervised ML (Level - Beginner)
+### Technical : Task 2 - Prediction using Unsupervised ML (Level - Beginner)
 
 Predict the optimum number of clusters, from the given "iris" dataset and represent it visually.
 
@@ -24,7 +24,7 @@ What are we supposed to do with the given dataset?
 
 We need to predict the optimum number of clusters and it's visualization.
 
-Technical : Task 3 - Exploratory Data Analysis - Retail (Level - Beginner)
+### Technical : Task 3 - Exploratory Data Analysis - Retail (Level - Beginner)
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
@@ -34,7 +34,7 @@ What are we supposed to do with the given dataset?
 
 As a business manager, we will try to find out the weak areas where we can work tomake more profit. Also, what all business problems can be derived by exploring the data.
 
-Technical : Task 4 - Exploratory Data Analysis - Terrorism (Level - Intermediate)
+### Technical : Task 4 - Exploratory Data Analysis - Terrorism (Level - Intermediate)
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
